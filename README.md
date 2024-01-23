@@ -1,5 +1,5 @@
 ## Imesão Alura
-Repositorio da Imersao Front End da Alura. porque? porque sim, resolvi fazer =)
+Repositorio da Imersao Front End da Alura. Por quê? Porque sim, resolvi fazer =)
 
 #ImersãoFrontEnd
 #Alura
